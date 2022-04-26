@@ -1,7 +1,6 @@
 # Unit-4
 
-
-Concepts are used to complete whole assignments in this Unit:
+Throughout this unit, concepts are utilized to complete entire assignments:
 
 1.HTML
 
@@ -9,10 +8,8 @@ Concepts are used to complete whole assignments in this Unit:
 
 3.JavaScript
 
-4.Bootstrap
+4.MongoDB
 
-5.MongoDB
+5.Node.js
 
-6.Node.js
-
-7.Express.js
+6.Express.js
