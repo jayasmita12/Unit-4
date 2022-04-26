@@ -1,0 +1,28 @@
+{
+  "name": "day2assinment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "DarkTower": "This 1982 eight-book series by King has a title which is taken from Shakespeare, but comes by way of Robert Barrett Browning. In 1852, Browning wrote a poem entitled Childe Roland to the Dark Tower Came; this line is spoken in Act III Scene IV of King Lear by Gloucester’s son Edgar. In his guise as Tom o’ Bedlam, he speaks a lot of gibberish, and this particular piece of gibberish has even older roots as a Scottish ballad.",
+    "WarandPeace": "The novel chronicles the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families. Portions of an earlier version, titled The Year 1805, were serialized in The Russian Messenger from 1865 to 1867 before the novel was published in its entirety in 1869.",
+    "DYING OF THE LIGHT": "This is Martin’s very first novel, published in 1977, long before he gained fame for A Song of Ice and Fire. The title is a line from Welsh poet Dylan Thomas’s gorgeous Do Not Go Gentle Into that Good Night, written in 1947 about his dying father.",
+    "A FAREWELL TO ARMS": "More Hemingway! It was published in 1929. This line is taken from the title of the poem A Farewell to Arms, written by Tudor poet George Peele to Elizabeth I. One of its themes is the swiftness of passing time; he died in 1596 aged 40, which was actually below the Elizabethan average of 42."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayasmita12/NODE-Event-Loop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayasmita12/NODE-Event-Loop/issues"
+  },
+  "homepage": "https://github.com/jayasmita12/NODE-Event-Loop#readme",
+  "devDependencies": {},
+  "description": ""
+}
